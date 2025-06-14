@@ -1,0 +1,10 @@
+openai>=1.0.0
+elevenlabs>=0.2.0
+pygame>=2.0.0
+scipy>=1.7.0
+soundfile>=0.10.0
+pyaudio>=0.2.11
+numpy>=1.21.0
+python-dotenv>=0.19.0
+# Optional for local Whisper
+# openai-whisper>=2023.0.0
