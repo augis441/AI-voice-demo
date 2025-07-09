@@ -1,1 +1,1 @@
-Created for Code in Place as a final project, you can speak to AI and it responds to you back using OPENAI ChatGPT and Whisper
+Created for Code in Place as a final project, you can speak to AI and it responds to you back using OPENAI ChatGPT for generating a response, OPENAI Whisper transcribing what you say and Elevenlabs to give you a more natural sounding Text-to-speech
